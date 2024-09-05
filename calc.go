@@ -18,7 +18,3 @@ func main() {
   }
   
 }
-
-
-// Your last Python3 code is saved below:
-// package main
